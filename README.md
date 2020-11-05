@@ -1,2 +1,0 @@
-# Arlan
-I am beginner
